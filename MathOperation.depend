@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446671344 source:c:\projects\cpp\mathoperation\main.cpp
+	<iostream>
+
+1490333709 source:c:\projects\cpp\mathoperation\rationalnumber.cpp
+	"RationalNumber.h"
+	<iostream>
+	<string>
+
+1490334892 c:\projects\cpp\mathoperation\rationalnumber.h
+	<iostream>
+	<string>
+
